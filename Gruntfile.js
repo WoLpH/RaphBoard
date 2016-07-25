@@ -160,14 +160,14 @@ module.exports = function(grunt) {
 
 	config.uglify.all = {
 		options: {
-			preserveComments: 'some'	// keep comments starting with /*!
+			preserveComments: 'some',	// keep comments starting with /*!
 		},
 		expand: true,
-		src: 'build/out/raphboard.js',
-		ext: '.min.js'
-	}
+        src: 'build/out/raphboard.js',
+        ext: '.min.js'
+	};
 
-
+    
 	/* Copy Dependencies
 	----------------------------------------------------------------------------------------------------*/
 

@@ -22,7 +22,7 @@
 		"raphael",
 		"javascript",
 		"vector",
-		"library"
+		"library",
 		"transform",
 		"FreeTransform"
 	],
@@ -46,5 +46,5 @@
 		"url"	: "http://miro.hibler.me/"
 	},
 
-	"copyright"	: "2012-2013 Miroslav Hibler"
+	"copyright"	: "2012-2013 Miroslav Hibler, 2016 Rick van Hattem"
 }
